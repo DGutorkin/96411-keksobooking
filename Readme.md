@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Dmitry Gutorkin](https://up.htmlacademy.ru/nodejs/2/user/96411).
-* Наставник: `Неизвестно`.
+* Наставник: `Владимир Коршунов`.
 
 ---
 
